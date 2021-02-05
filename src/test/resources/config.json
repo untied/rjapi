@@ -1,0 +1,11 @@
+{
+    "database": {
+        "type": "h2",
+        "home": "src/test/resources/data",
+        "file": "cinema",
+        "host": "localhost",
+        "port": 3306,
+        "user": "cinema_user",
+        "pass": "cinema$1234"
+    }
+}
