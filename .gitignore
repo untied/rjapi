@@ -1,0 +1,5 @@
+.gradle
+.settings
+build
+data/cinema.mv.db
+tmp
