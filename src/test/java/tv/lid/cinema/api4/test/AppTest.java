@@ -532,7 +532,7 @@ public final class AppTest {
         final AppTest.ListWrapper<ScheduleModel> data = AppTest.__getSchedules(3);
         if (data != null) {
             // проверяем количество сеансов
-            if (data.list.size() == 2) {
+            if (data.list.size() == 3) {
                 ScheduleModel schedule;
 
                 // проверяем список сеансов
